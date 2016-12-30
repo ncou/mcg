@@ -1,4 +1,6 @@
 TODO NCOU : implement logic from here : http://stackoverflow.com/questions/28503998/how-to-create-custom-palette-with-custom-color-for-material-design-app/36229022#36229022
+Modify logic : 
+https://github.com/mbitson/mcg/blob/master/scripts/controllers/ColorGeneratorCtrl.js#L163
 
 # Material Design Color Generator
 A tool for generating a color palette for Material Design.
