@@ -1,3 +1,5 @@
+TODO NCOU : implement logic from here : http://stackoverflow.com/questions/28503998/how-to-create-custom-palette-with-custom-color-for-material-design-app/36229022#36229022
+
 # Material Design Color Generator
 A tool for generating a color palette for Material Design.
 ###<a href="http://mcg.mbitson.com/">Click here to view the tool!</a>
